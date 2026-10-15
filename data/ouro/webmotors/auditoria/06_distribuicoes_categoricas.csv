@@ -1,0 +1,217 @@
+﻿coluna,categoria,quantidade,percentual
+nome_marca,VOLKSWAGEN,34,14.47
+nome_marca,JEEP,24,10.21
+nome_marca,HYUNDAI,17,7.23
+nome_marca,TOYOTA,16,6.81
+nome_marca,CHEVROLET,16,6.81
+nome_marca,FORD,16,6.81
+nome_marca,MERCEDES-BENZ,15,6.38
+nome_marca,BMW,13,5.53
+nome_marca,AUDI,10,4.26
+nome_marca,HONDA,9,3.83
+nome_marca,VOLVO,8,3.4
+nome_marca,FIAT,8,3.4
+nome_marca,LAND ROVER,7,2.98
+nome_marca,PORSCHE,5,2.13
+nome_marca,MITSUBISHI,5,2.13
+nome_marca,RAM,4,1.7
+nome_marca,RENAULT,4,1.7
+nome_marca,CAOA CHERY,4,1.7
+nome_marca,PEUGEOT,3,1.28
+nome_marca,FERRARI,3,1.28
+nome_marca,BYD,3,1.28
+nome_marca,JAGUAR,2,0.85
+nome_marca,MINI,2,0.85
+nome_marca,NISSAN,2,0.85
+nome_marca,CITROËN,1,0.43
+nome_marca,KIA,1,0.43
+nome_marca,ALFA ROMEO,1,0.43
+nome_marca,GWM,1,0.43
+nome_marca,CHRYSLER,1,0.43
+nome_modelo,RENEGADE,9,3.83
+nome_modelo,COMPASS,8,3.4
+nome_modelo,T-CROSS,8,3.4
+nome_modelo,COMMANDER,7,2.98
+nome_modelo,CRETA,6,2.55
+nome_modelo,TRACKER,6,2.55
+nome_modelo,Q3,5,2.13
+nome_modelo,HB20,5,2.13
+nome_modelo,HR-V,4,1.7
+nome_modelo,HILUX,4,1.7
+nome_modelo,X1,4,1.7
+nome_modelo,NIVUS,4,1.7
+nome_modelo,ONIX,4,1.7
+nome_modelo,DISCOVERY SPORT,3,1.28
+nome_modelo,XC60,3,1.28
+nome_modelo,SAVEIRO,3,1.28
+nome_modelo,VIRTUS,3,1.28
+nome_modelo,COROLLA CROSS,3,1.28
+nome_modelo,320i,3,1.28
+nome_modelo,TERRITORY,3,1.28
+nome_modelo,RAMPAGE,3,1.28
+nome_modelo,PULSE,3,1.28
+nome_modelo,RANGER,3,1.28
+nome_modelo,COROLLA,3,1.28
+nome_modelo,JETTA,3,1.28
+nome_modelo,TIGUAN,3,1.28
+nome_modelo,CAYENNE,2,0.85
+nome_modelo,RAV4,2,0.85
+nome_modelo,CIVIC,2,0.85
+nome_modelo,MAVERICK,2,0.85
+nome_modelo,BRONCO SPORT,2,0.85
+nome_modelo,SILVERADO,2,0.85
+nome_modelo,CRONOS,2,0.85
+nome_modelo,X4,2,0.85
+nome_modelo,TUCSON,2,0.85
+nome_modelo,208,2,0.85
+nome_modelo,ZR-V,2,0.85
+nome_modelo,PAJERO SPORT,2,0.85
+nome_modelo,DEFENDER,2,0.85
+nome_modelo,COOPER,2,0.85
+nome_modelo,XC90,2,0.85
+nome_modelo,TIGGO 7 PRO,2,0.85
+nome_modelo,FOX,2,0.85
+nome_modelo,AMAROK,2,0.85
+nome_modelo,C 63 AMG,2,0.85
+nome_modelo,HILUX SW4,2,0.85
+nome_modelo,S10,2,0.85
+nome_modelo,C 300,2,0.85
+nome_modelo,KICKS,2,0.85
+nome_modelo,FASTBACK,2,0.85
+nome_modelo,POLO,2,0.85
+nome_modelo,IX35,2,0.85
+nome_modelo,HB20S,2,0.85
+nome_modelo,FUSCA,2,0.85
+nome_modelo,Q5,1,0.43
+nome_modelo,A5,1,0.43
+nome_modelo,ASX,1,0.43
+nome_modelo,GLC 43 AMG,1,0.43
+nome_modelo,EQUINOX,1,0.43
+nome_modelo,GLA 200,1,0.43
+nome_modelo,TAOS,1,0.43
+nome_modelo,KANGOO,1,0.43
+nome_modelo,TRITON,1,0.43
+nome_modelo,TAYCAN,1,0.43
+nome_modelo,MUSTANG MACH-e,1,0.43
+nome_modelo,CLASSIC,1,0.43
+nome_modelo,YARIS,1,0.43
+nome_modelo,F-150,1,0.43
+nome_modelo,F-PACE,1,0.43
+nome_modelo,TRANSIT,1,0.43
+nome_modelo,RANGE ROVER EVOQUE,1,0.43
+nome_modelo,XC40,1,0.43
+nome_modelo,X5,1,0.43
+nome_modelo,C 250,1,0.43
+nome_modelo,E-PACE,1,0.43
+nome_modelo,330e,1,0.43
+nome_modelo,TIGGO 8,1,0.43
+nome_modelo,PANAMERA,1,0.43
+nome_modelo,MACAN,1,0.43
+nome_modelo,TORO,1,0.43
+nome_modelo,M8,1,0.43
+nome_modelo,488 SPIDER,1,0.43
+nome_modelo,E-TRON,1,0.43
+nome_modelo,GLC 300,1,0.43
+nome_modelo,SUPRA,1,0.43
+nome_modelo,458 ITALIA,1,0.43
+nome_modelo,CALIFORNIA,1,0.43
+nome_modelo,SEAL,1,0.43
+nome_modelo,TAN,1,0.43
+nome_modelo,C3 AIRCROSS,1,0.43
+nome_modelo,SPORTAGE,1,0.43
+nome_modelo,155,1,0.43
+nome_modelo,S60,1,0.43
+nome_modelo,PAJERO FULL,1,0.43
+nome_modelo,CITY,1,0.43
+nome_modelo,GLA 250,1,0.43
+nome_modelo,HAVAL H6,1,0.43
+nome_modelo,SONG PRO,1,0.43
+nome_modelo,C 200 K,1,0.43
+nome_modelo,FIESTA,1,0.43
+nome_modelo,CAPTUR,1,0.43
+nome_modelo,X3,1,0.43
+nome_modelo,CLIO,1,0.43
+nome_modelo,NEW BEETLE,1,0.43
+nome_modelo,DUSTER,1,0.43
+nome_modelo,MONTANA,1,0.43
+nome_modelo,3008,1,0.43
+nome_modelo,TIGGO 5X PRO,1,0.43
+nome_modelo,RS Q3,1,0.43
+nome_modelo,300 C,1,0.43
+nome_modelo,SL 63 AMG,1,0.43
+nome_modelo,MUSTANG,1,0.43
+nome_modelo,G 63 AMG,1,0.43
+nome_modelo,FUSION,1,0.43
+nome_modelo,V40,1,0.43
+nome_modelo,CLC 200 K,1,0.43
+nome_modelo,A3,1,0.43
+nome_modelo,RANGE ROVER SPORT,1,0.43
+nome_modelo,CLA 200,1,0.43
+nome_modelo,C 200,1,0.43
+nome_combustivel,Flex,102,43.4
+nome_combustivel,Gasolina,74,31.49
+nome_combustivel,Diesel,23,9.79
+nome_combustivel,[AUSENTE],17,7.23
+nome_combustivel,Híbrido,13,5.53
+nome_combustivel,Elétrico,6,2.55
+cambio,Automática,206,87.66
+cambio,Manual,20,8.51
+cambio,CVT,9,3.83
+carroceria,Utilitário esportivo,138,58.72
+carroceria,Sedã,38,16.17
+carroceria,Picape,26,11.06
+carroceria,Hatchback,22,9.36
+carroceria,Cupê,5,2.13
+carroceria,Conversível,3,1.28
+carroceria,Van/Utilitário,2,0.85
+carroceria,Perua/SW,1,0.43
+estado,São Paulo (SP),235,100.0
+cidade,São Paulo,106,45.11
+cidade,Campinas,23,9.79
+cidade,São Bernardo do Campo,18,7.66
+cidade,Barueri,11,4.68
+cidade,Indaiatuba,10,4.26
+cidade,São José dos Campos,8,3.4
+cidade,Valinhos,6,2.55
+cidade,Piracicaba,5,2.13
+cidade,Sorocaba,5,2.13
+cidade,Osasco,4,1.7
+cidade,Santo André,4,1.7
+cidade,Guarulhos,3,1.28
+cidade,Americana,3,1.28
+cidade,Itu,2,0.85
+cidade,Presidente Prudente,2,0.85
+cidade,Salto,2,0.85
+cidade,Guarujá,2,0.85
+cidade,Taubaté,2,0.85
+cidade,São Caetano do Sul,2,0.85
+cidade,Carapicuíba,2,0.85
+cidade,Guaratinguetá,1,0.43
+cidade,Aparecida,1,0.43
+cidade,Fernandópolis,1,0.43
+cidade,Itatiba,1,0.43
+cidade,Ribeirão Preto,1,0.43
+cidade,Hortolândia,1,0.43
+cidade,Cotia,1,0.43
+cidade,Rio Claro,1,0.43
+cidade,Ibaté,1,0.43
+cidade,Nova Odessa,1,0.43
+cidade,Catanduva,1,0.43
+cidade,Jaguariúna,1,0.43
+cidade,Sumaré,1,0.43
+cidade,Itupeva,1,0.43
+cidade,Amparo,1,0.43
+tipo_vendedor,PJ,159,67.66
+tipo_vendedor,PF,76,32.34
+faixa_preco,R$ 100–200 mil,93,39.57
+faixa_preco,R$ 50–100 mil,76,32.34
+faixa_preco,R$ 200–500 mil,46,19.57
+faixa_preco,R$ 500 mil–1 milhão,10,4.26
+faixa_preco,Até R$ 50 mil,6,2.55
+faixa_preco,Acima de R$ 1 milhão,4,1.7
+faixa_quilometragem,30–60 mil km,83,35.32
+faixa_quilometragem,60–100 mil km,57,24.26
+faixa_quilometragem,Até 30 mil km,57,24.26
+faixa_quilometragem,100–150 mil km,33,14.04
+faixa_quilometragem,150–200 mil km,4,1.7
+faixa_quilometragem,Acima de 200 mil km,1,0.43

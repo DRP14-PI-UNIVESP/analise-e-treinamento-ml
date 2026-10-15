@@ -1,0 +1,11 @@
+{
+    "arquivo": "data/ouro/webmotors/03_webmotors_ouro.parquet",
+    "linhas": 235,
+    "colunas": 41,
+    "ids_unicos": 235,
+    "linhas_duplicadas_integralmente": 0,
+    "preco_minimo": 29500.0,
+    "preco_mediano": 123890.0,
+    "preco_maximo": 3190000.0,
+    "relatorios": "data/ouro/webmotors/auditoria"
+}

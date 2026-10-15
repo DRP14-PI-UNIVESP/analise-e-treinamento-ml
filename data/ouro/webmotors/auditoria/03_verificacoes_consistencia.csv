@@ -1,0 +1,8 @@
+﻿verificacao,quantidade,observacao
+Preço ausente ou não numérico,0,
+Preço menor ou igual a zero,0,
+Quilometragem negativa,0,
+Quilometragem ausente,0,
+Ano de fabricação ausente,0,
+Ano-modelo anterior ao ano de fabricação,0,
+Idade divergente do cálculo esperado,0,

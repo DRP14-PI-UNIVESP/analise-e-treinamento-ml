@@ -1,0 +1,5 @@
+﻿grupo_frequencia,quantidade,MAE,MAPE,RMSE
+0 - Modelo ausente no treino,14,94308.45,38.4,170843.41
+1 - Um exemplo no treino,11,19235.22,11.52,33998.68
+2-4 - Poucos exemplos,15,8604.68,9.82,10498.98
+5+ - Maior representacao,7,12376.06,13.19,15478.56

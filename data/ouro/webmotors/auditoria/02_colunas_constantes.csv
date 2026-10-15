@@ -1,0 +1,5 @@
+﻿coluna,tipo,valores_ausentes,percentual_ausente,valores_unicos
+good_deal,object,109,46.38,1
+leilao,bool,0,0.0,1
+estado,string,0,0.0,1
+data_coleta,datetime64[ms],0,0.0,1

@@ -1,0 +1,6 @@
+﻿faixa_preco_real,quantidade,MAE,RMSE,MAPE_percentual,erro_absoluto_maximo
+Ate R$ 50 mil,6,47229.29,65409.23,138.55,143360.70
+R$ 50 mil a R$ 100 mil,76,14172.10,23068.59,18.29,141709.93
+R$ 100 mil a R$ 200 mil,93,21664.56,34409.33,15.01,167387.55
+R$ 200 mil a R$ 400 mil,42,77185.10,111433.50,28.36,349861.82
+Acima de R$ 400 mil,18,455113.04,765003.71,36.83,2446656.80

@@ -1,0 +1,97 @@
+{
+    "etapa": 26,
+    "arquivo_fonte": "data/ouro/webmotors/03_webmotors_ouro.parquet",
+    "registros_treinamento": 235,
+    "alvo": "valor_anuncio",
+    "transformacao_alvo": "log1p",
+    "variaveis_categoricas": [
+        "nome_marca",
+        "nome_modelo",
+        "nome_combustivel",
+        "cambio",
+        "carroceria",
+        "tipo_vendedor",
+        "cidade",
+        "bairro",
+        "tracao"
+    ],
+    "variaveis_numericas": [
+        "ano_fabricacao",
+        "ano_modelo",
+        "idade_veiculo",
+        "quilometragem",
+        "potencia",
+        "cilindrada"
+    ],
+    "ordem_features": [
+        "nome_marca",
+        "nome_modelo",
+        "nome_combustivel",
+        "cambio",
+        "carroceria",
+        "tipo_vendedor",
+        "cidade",
+        "bairro",
+        "tracao",
+        "ano_fabricacao",
+        "ano_modelo",
+        "idade_veiculo",
+        "quilometragem",
+        "potencia",
+        "cilindrada"
+    ],
+    "observacao": "Treinamento com todos os registros validos. Metricas de treino nao representam desempenho em dados novos.",
+    "modelos": {
+        "HistGradientBoosting": {
+            "arquivo": "data/ouro/webmotors/modelagem/final/26_modelo_histgradientboosting.joblib",
+            "algoritmo": "HistGradientBoostingRegressor",
+            "parametros": {
+                "categorical_features": "from_dtype",
+                "early_stopping": false,
+                "interaction_cst": null,
+                "l2_regularization": 0.0,
+                "learning_rate": 0.05,
+                "loss": "squared_error",
+                "max_bins": 255,
+                "max_depth": null,
+                "max_features": 1.0,
+                "max_iter": 100,
+                "max_leaf_nodes": 7,
+                "min_samples_leaf": 15,
+                "monotonic_cst": null,
+                "n_iter_no_change": 10,
+                "quantile": null,
+                "random_state": 42,
+                "scoring": "loss",
+                "tol": 1e-07,
+                "validation_fraction": 0.1,
+                "verbose": 0,
+                "warm_start": false
+            }
+        },
+        "ExtraTrees": {
+            "arquivo": "data/ouro/webmotors/modelagem/final/26_modelo_extratrees.joblib",
+            "algoritmo": "ExtraTreesRegressor",
+            "parametros": {
+                "bootstrap": false,
+                "ccp_alpha": 0.0,
+                "criterion": "squared_error",
+                "max_depth": null,
+                "max_features": 1.0,
+                "max_leaf_nodes": null,
+                "max_samples": null,
+                "min_impurity_decrease": 0.0,
+                "min_samples_leaf": 2,
+                "min_samples_split": 2,
+                "min_weight_fraction_leaf": 0.0,
+                "monotonic_cst": null,
+                "n_estimators": 300,
+                "n_jobs": -1,
+                "oob_score": false,
+                "random_state": 42,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "experimento": "Modelo 20 - alvo logaritmico",
+    "arquivo_entrada": "data/ouro/webmotors/03_webmotors_ouro.parquet",
+    "variavel_alvo": "valor_anuncio",
+    "transformacao_alvo": "log1p",
+    "reversao_previsoes": "expm1",
+    "registros_validos": 235,
+    "registros_treino": 188,
+    "registros_teste": 47,
+    "quantidade_atributos": 15,
+    "atributos_categoricos": [
+        "nome_marca",
+        "nome_modelo",
+        "nome_combustivel",
+        "cambio",
+        "carroceria",
+        "tipo_vendedor",
+        "cidade",
+        "bairro",
+        "tracao"
+    ],
+    "atributos_numericos": [
+        "ano_fabricacao",
+        "ano_modelo",
+        "idade_veiculo",
+        "quilometragem",
+        "potencia",
+        "cilindrada"
+    ],
+    "random_state": 42,
+    "mae": 37183.15535431316,
+    "mae_baseline_mediana": 70476.47872340426,
+    "rmse": 95055.42831972765,
+    "r2": 0.5354688630884575,
+    "mape_percentual": 19.23387924473667,
+    "iteracoes_realizadas": 100
+}

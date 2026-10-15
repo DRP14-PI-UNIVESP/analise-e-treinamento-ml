@@ -1,0 +1,29 @@
+# Ambiente e caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Credenciais
+.env
+*.key
+*.pem
+
+# Dados de terceiros (baixar da fonte; ver README)
+data/bronze/fipex-prices-latest.csv
+
+# Dados da FIPE gerados pelo pipeline (grandes; regeneráveis)
+data/prata/*.parquet
+data/ouro/*.parquet
+!data/prata/*_amostra.parquet
+!data/ouro/*_amostra.parquet
+data/auditorias/*.csv
+
+# Coletas de diagnóstico da Webmotors (HTML, capturas e JSON brutos)
+data/bronze/webmotors/diagnostico/
+
+# Modelos intermediários (regeneráveis pelos scripts 19 e 20)
+data/ouro/webmotors/modelagem/*.joblib

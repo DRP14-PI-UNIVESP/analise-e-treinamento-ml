@@ -1,0 +1,20 @@
+{
+    "registros_validos": 235,
+    "partes": 5,
+    "semente": 42,
+    "metodo": "KFold com embaralhamento e alvo log1p",
+    "media": {
+        "MAE": 63017.31185792418,
+        "MAE_baseline_mediana": 116663.98723404256,
+        "RMSE": 193505.95069316792,
+        "R2": 0.5449073967452917,
+        "MAPE_percentual": 23.280971477175427
+    },
+    "desvio_padrao": {
+        "MAE": 14106.387522506455,
+        "MAE_baseline_mediana": 30362.951219653452,
+        "RMSE": 113747.58806709298,
+        "R2": 0.12890057397215493,
+        "MAPE_percentual": 2.1801168174327095
+    }
+}

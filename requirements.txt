@@ -1,0 +1,14 @@
+# Versões fixadas conforme o ambiente original do projeto
+numpy==2.5.3
+pandas==3.0.6
+pyarrow==25.0.1
+python-dateutil==2.9.0.post0
+six==1.17.0
+tzdata==2026.4
+
+# Usadas pelos scripts, mas ainda sem versão fixada.
+# Rode `python -m pip freeze` no seu ambiente e fixe as versões aqui.
+scikit-learn
+joblib
+duckdb
+playwright   # só para a coleta (pipelines/webmotors/01 e 06); depois: playwright install chromium
